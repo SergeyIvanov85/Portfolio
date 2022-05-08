@@ -8,7 +8,7 @@ Front End Developer
 I am currently an active duty officer in the armed forces and my 20 year career is coming to the end. Despite this, I am only 37 years old and I have a great desire to radically change my profession. During my military career, I have held various command positions and led a team of more than 1000+ personnel. I have 2 higher educations in the specialty "Scientist in management". My main immediate goal includes fully mastering my personal theoretical and practical skills, which necessary for qualify me as a high-class FrontEnd developer, further constantly developing myself as a true professional in IT-sphere and eventually getting the job of my dream. My main priorities: self-realization through career growth; getting pleasure from the work well done and the result obtained; the well-being of my family, the preservation of health and active physical development.
 
 * 🌍  I'm based in Minsk
-* 🖥️  See my portfolio at [My Portfolio](http://https://sergeyivanov85.github.io/Portfolio/)
+* 🖥️  See my portfolio at https://sergeyivanov85.github.io/Portfolio/
 * ✉️  You can contact me at [koldyn85@yandex.ru](mailto:koldyn85@yandex.ru)
 * 🧠  I'm learning JavaScript
 * 🤝  I'm open to collaborating on Interest Projects
